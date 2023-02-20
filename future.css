@@ -1,5 +1,5 @@
 body {
-    background-color: #ebfffb;
+    background-color: #51eaea;
     text-align: center;
 }
 
@@ -13,11 +13,11 @@ table, th, td{
     border-collapse: collapse;
 }
 th, td {
-    background-color: #7efaff;
+    background-color: #fffde1;
 }
 
 button{
-  background-color: #13abc4;
+  background-color: #ff9d76;
   border: none;
   color: white;
   padding: 15px 32px;
