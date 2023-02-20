@@ -5,17 +5,16 @@ body {
 
 .button {
   background-color: #ffff9d;
-  border: none;
   color: #beeb9f;
   padding: 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
+  font-size: 20px;
+  margin: 4px 40px;
   cursor: pointer;
 }
 
-.button1{border-radius: 45%;}
-.button2{border-radius: 45%;}
+.button1{border-radius: 40px;}
+.button2{border-radius: 40px;}
 
