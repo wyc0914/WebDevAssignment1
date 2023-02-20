@@ -1,12 +1,12 @@
 body {
-    background-color: aqua;
+    background-color: #79bd8f;
     text-align: center;
 }
 
 .button {
-  background-color: #4CAF50; /* Green */
+  background-color: #ffff9d;
   border: none;
-  color: white;
+  color: #beeb9f;
   padding: 20px;
   text-align: center;
   text-decoration: none;

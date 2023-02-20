@@ -9,7 +9,7 @@ img {
 }
 
 table, th, td{
-    border: 2px solid white;
+    border: 2px solid #FF837E;
     border-collapse: collapse;
 }
 th, td {

@@ -1,19 +1,26 @@
 body {
-    background-color: #51eaea;
+    background-color: #ECF9FF;
     text-align: center;
 }
 
+p {
+    color:#ff9d76;
+
+}
+
 img {
+    float: left;
     width: 100%;
-    display: block;
+    height: 235px;
+    object-fit: cover;
 }
 
 table, th, td{
-    border: 2px solid white;
+    border: 2px solid #ff9d76;
     border-collapse: collapse;
 }
 th, td {
-    background-color: #fffde1;
+    background-color: #F8CBA6;
 }
 
 button{
